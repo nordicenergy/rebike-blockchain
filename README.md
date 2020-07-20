@@ -1,6 +1,6 @@
-# ReBike Sharing App
+# ReBike - Bicycle Sharing dApp
 
-### ReBike is a blockchain-based bike sharing application platform
+### ReBike is a blockchain-based bicycle sharing application & platform
 
 
 ### Great for humanity
